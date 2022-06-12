@@ -1,0 +1,32 @@
+body{
+    background-color:lightgreen;
+    color:darkgreen;
+    font-family: 'Expletus Sans', cursive;
+}
+#camera{
+    border: 2px dashed black;
+    height: 350px;
+    width: 350px;
+}
+#result_object_name, #result_object_accuracy{
+    color:red;
+}
+.heading{
+    width: 100%;
+    font-size: 26px;
+    color:red;
+    font-family: 'Grandstander', cursive;
+    background-color:chartreuse;
+
+}
+b{
+    font-size: 18px;
+}
+#result{
+    border: 2px dashed black;
+    height: 350px;
+    width: 350px;
+}
+.name_of_objects{
+    color:seagreen;
+}
